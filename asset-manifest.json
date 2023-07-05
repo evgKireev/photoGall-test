@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoGall-test/static/css/main.d4f2d6d7.css",
+    "main.js": "/photoGall-test/static/js/main.d6244f68.js",
+    "index.html": "/photoGall-test/index.html",
+    "main.d4f2d6d7.css.map": "/photoGall-test/static/css/main.d4f2d6d7.css.map",
+    "main.d6244f68.js.map": "/photoGall-test/static/js/main.d6244f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f2d6d7.css",
+    "static/js/main.d6244f68.js"
+  ]
+}
